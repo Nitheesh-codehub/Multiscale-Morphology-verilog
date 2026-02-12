@@ -1,5 +1,5 @@
 from PIL import Image
-
+#code for morphology
 # ===============================
 # EDIT THESE TWO LINES ONLY
 # ===============================
